@@ -96,6 +96,9 @@
     <section style="height: fit-content; width: 80vw;">
       <PriceSimulator :mobile-view="mobileView"></PriceSimulator>
     </section>
+    <section>
+      
+    </section>
   </div>
 </template>
 
